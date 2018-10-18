@@ -6,7 +6,7 @@ use apriori from mlxtend module
 
 Data:  
 
-groceries.csv
+groceries.csv  
 cardid,goods  
 39808,freshmeat  
 39808,dairy  
